@@ -1,0 +1,1 @@
+🚀 NeoSearch AI – An advanced AI-powered search and assistant platform that combines natural language processing, real-time web search, voice input, image/PDF understanding, and streaming AI responses. Built with FastAPI, Python, HTML, CSS, and JavaScript for a fast and interactive user experience.
