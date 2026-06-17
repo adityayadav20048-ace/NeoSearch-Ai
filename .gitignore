@@ -1,0 +1,7 @@
+# Environment files
+.env
+.env.local
+.env.*
+
+# Ignore backend env file
+backend/.env
